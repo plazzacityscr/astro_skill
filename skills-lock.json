@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "skills": {
+    "Bun Cloudflare Workers": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "21d278b0f3f6e00e11f619c986f159b85c34212ffe8535cf411e01ae0796f39e"
+    },
+    "SEO Optimizer": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "40f156d4e5f94c560128a46a5118170ad3515d7f12edbe80cfc461d9af46c606"
+    },
+    "agent-orchestrator-task": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "f0c2445a8bca4f2d7f5b624022152ba55bf0d42c970234cd357b2a9f62ab6eae"
+    },
+    "astro": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "265aafeb243cf79b692210066bc88628f1962bad7fcab451f7abdebf3a489429"
+    },
+    "cloudflare-full-stack-scaffold": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "12c64d98923e48aa7e850c7be628a778816eab8e4103a51b5a5f565487755c70"
+    },
+    "cloudflare-worker-dev": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "58eb894e2becba35ce21cbeb66e7b22ed8452d98c47a3bac17dee4ca22f5dba5"
+    },
+    "cloudflare-workers": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "1fe2900bb95cab17d75062cdcad60e7263bc95eb288f55db7dcc269c0938cc36"
+    },
+    "prompt-engineer": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "2c7d393797a6a9838a344ac8cc152374227ffcc3f90fd3d75c0bc7c1ebb99fce"
+    },
+    "seo-fundamentals": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "4cb8fd4b5cd8daad44314d13de0206d1cf80f365107f5ef662ebbd5a64cf2c3f"
+    }
+  }
+}
